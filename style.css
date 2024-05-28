@@ -17,3 +17,11 @@ width: 8%;
 body{
     margin: 0;
 }
+
+.drone{
+    width: 10%;
+}
+
+.texto-drone{
+    display: flex;
+}
