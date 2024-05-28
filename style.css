@@ -3,6 +3,7 @@ header{
     display: flex;
     align-items: center;
     justify-content: space-between;
+    border-bottom: 3px solid black;
 }
 
 .cabeçario{
@@ -11,4 +12,8 @@ header{
 
 .lupa{
 width: 8%;
+}
+
+body{
+    margin: 0;
 }
