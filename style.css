@@ -2,8 +2,10 @@ header{
     font-size: 35px;
     text-align: center;
     display: flex;
+    align-items: center;
+    justify-content: space-around;
 }
 
 .lupa{
-width: 15%;
+width: 8%;
 }
