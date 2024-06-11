@@ -37,11 +37,11 @@ body{
 }
 
 .min{
-    font-size: 10px;
+    font-size: 15px;
 }
 
 .botao{
-    background-color: green;
-    border-radius: 10px;
+    background-color: lightgreen;
+    border-radius: 25px;
     padding: 10px;
 }
