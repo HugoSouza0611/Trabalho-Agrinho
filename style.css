@@ -32,7 +32,9 @@ body{
 
 .esp{
     margin:  0 10px;
+    min-width: 42%;
 }
+
 .min{
     font-size: 10px;
 }
