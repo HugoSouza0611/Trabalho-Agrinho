@@ -7,7 +7,7 @@ header{
 }
 
 .cabeçario{
-    font-size: 35px;
+    font-size: 25px;
 }
 
 .lupa{
@@ -26,8 +26,8 @@ body{
 
 .texto-drone{
     display: flex;
-    margin: 25px;
-    font-size: 25px;
+    margin: 0;
+    font-size: 13px;
     align-items: center;
 }
 
@@ -56,8 +56,8 @@ body{
 
 .texto-gps{
     display: flex;
-    margin: 25px;
-    font-size: 25px;
+    margin: 0px;
+    font-size: 13px;
     align-items: center;
 }
 
@@ -86,8 +86,8 @@ body{
 
 .texto-trator{
     display: flex;
-    margin: 25px;
-    font-size: 25px;
+    margin: 0px;
+    font-size: 13px;
     align-items: center;
 }
 
@@ -104,4 +104,22 @@ body{
     background-color: #76ED97;
     border-radius: 25px;
     padding: 10px;
+}
+
+@media screen and (min-width: 1024px){
+    .texto-drone{
+        margin: 25px;
+        font-size: 25px;
+    }
+    .cabeçario{
+        font-size: 35px;
+    }
+    .texto-gps{
+        margin: 25px;
+        font-size: 25px;
+    }
+    .texto-trator{
+        margin: 25px;
+        font-size: 25px;
+    }
 }
