@@ -75,3 +75,33 @@ body{
     border-radius: 25px;
     padding: 10px;
 }
+
+
+
+.trator{
+    width: 15%;
+    margin-right: 15px;
+    border: 3px solid;
+}
+
+.texto-trator{
+    display: flex;
+    margin: 25px;
+    font-size: 25px;
+    align-items: center;
+}
+
+.esp3{
+    margin:  0 10px;
+    min-width: 40%;
+}
+
+.min3{
+    font-size: 15px;
+}
+
+.botao3{
+    background-color: #76ED97;
+    border-radius: 25px;
+    padding: 10px;
+}
